@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">Data Visualization with Processing</h1>
-    <h3 align="center">Final Project</h3>
+    <h4 align="center">Final Project</h4>
 </p>
 
 <p align="center">
